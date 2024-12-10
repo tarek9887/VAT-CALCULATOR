@@ -1,0 +1,18 @@
+body
+{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-size: 1em;
+      background-image: url("pexels-mike-sember-1263707-6043246.jpg");
+}
+h1
+{
+      font-family: 'Croissant One', cursive;
+      font-size: 1em;
+      color: #333;
+}
+label
+{
+      font-family: 'Croissant One', cursive;
+      font-size: 1em;
+      color: azure;
+}
